@@ -333,7 +333,7 @@ main{
   position: absolute;
   top: 1%;
   z-index: -1;
-  box-shadow: 0px 200px 90px 150px rgb(238, 237, 237);
+  box-shadow: 0px 280px 100px 180px white;
 }
 .main{
   display: block !important; 
